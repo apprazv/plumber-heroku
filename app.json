@@ -1,0 +1,16 @@
+{
+  "name": "plumber-heroku",
+  "stack": "container",
+  "description": "Plumber Heroku API example",
+  "keywords": [
+    "r",
+    "plumber"
+  ],
+  "repository": "https://github.com/apprazv/plumber-heroku",
+  "success_url": "/",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  }
+}
